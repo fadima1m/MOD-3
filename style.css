@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+html {
+    background-color: deeppink;
+    font-size: large;
+}
+
+body {
+    background-color: pink;
+    font-family: Verdana, Geneva, Arial, sans-serif; 	
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+button {
+    align-items: center;
+    background-color: fuchsia;
+    background-clip: padding-box;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+footer {
+    background-color: antiquewhite;
+    text-align: center;
+}
