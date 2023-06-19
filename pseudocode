@@ -1,0 +1,14 @@
+1. Start.
+2. Import Date Time.
+3. Import Programmer User.
+4. Import JOptionPane.
+5. Print Both Date Time / Programmer User.
+6. Set the Variables Twenties, Tens, Fives, and Ones to Constant.
+    6a. Set Equations to Each Variable For Correct Output.
+7. Get The Input of User Name set to JOptionPane Input Dialog Box.
+8. Get The Input of Number of Dollars to JOptionPane Input Dialog Box.
+9. Create Message JOptionPane Box.
+10. End.
+import javax.swing.JOptionPane; //To create open window
+
+JOptionOAne.showMessageDialog
